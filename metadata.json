@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Main",
+  "description": "A modern social media platform for visual storytelling, featuring AI-powered caption generation and magic image creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
